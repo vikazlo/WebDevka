@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+<title>boilerplate</title>
+<meta charset='utf-8'>
+</head>
+<body>
+	<div>
+		<header>
+			<div></div>
+			<nav><a href="https://ru.wikipedia.org/wiki/%D0%94%D0%BE%D0%BA%D1%82%D0%BE%D1%80_%D0%97%D0%BB%D0%BE">Evil</a></nav>
+		</header>
+		<main>
+			<section></section>
+			<section></section>
+		</main>
+		<footer>
+			<div></div>
+		</footer>
+	</div>
+</body>
+</html>
